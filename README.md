@@ -1,2 +1,2 @@
 # Time-pass
-This is user for time-pass
+This is used for time-pass
